@@ -1,0 +1,3 @@
+/Users/a00968771/desktop/current/htdocs/index.html
+/Users/a00968771/desktop/current/htdocs/bottom.html
+/Users/a00968771/desktop/current/htdocs/head.html
